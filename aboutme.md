@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: Never gonna give you up
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Never Gonna let you down
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Never gonna run around and desert you
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Never gonna make you cry, never gonna say goodbye. Never gonna tell a lie, and hurt you
