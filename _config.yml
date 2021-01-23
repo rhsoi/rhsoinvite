@@ -15,7 +15,8 @@ author: Saketh Sundar
 
 navbar-links:
   About Us: "aboutme"
-
+  Tournament: "tournament"
+  Register: "registration"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
