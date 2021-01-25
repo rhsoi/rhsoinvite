@@ -5,13 +5,13 @@ subtitle: Tournament Directors
 ---
 # Student Directors
 ## Saketh Sundar
-# Logistics/Operations & Content
+### Logistics/Operations & Content
 Sophomore, River Hill High School
 ## Jeffrey Li
-# Content & Communications
+### Content & Communications
 Senior, River Hill High School
 ## Victoria Cheng
-# Outreach & Communications
+### Outreach & Communications
 Senior, River Hill High School
 # Advisor/Sponsor
 ## Mr. Gregory Clark
