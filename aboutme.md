@@ -11,7 +11,7 @@ Sophomore, River Hill High School
 ### Content & Communications
 Senior, River Hill High School
 ## Victoria Cheng
-### Outreach & Communications
+### Outreach & Scoring
 Senior, River Hill High School
 # Advisor/Sponsor
 ## Mr. Gregory Clark
