@@ -11,7 +11,7 @@ subtitle: Tournament Directors
 Sophomore, River Hill High School
 ## Jeffrey Li
 ### Content & Communications
-![](https://media.discordapp.net/attachments/799693210384859198/803447607425892382/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6338373164335f6365393362626264.png?size=200)
+![](https://media.discordapp.net/attachments/799693210384859198/803452378686554132/j.webp?width=320&height=320)
 
 Senior, River Hill High School
 ## Victoria Cheng
