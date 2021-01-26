@@ -12,7 +12,7 @@ Sophomore, River Hill High School
 Senior, River Hill High School
 ## Victoria Cheng
 ### Outreach & Scoring
-[![](https://media.discordapp.net/attachments/799693210384859198/803432327950368768/image0.jpg?width=503&height=670)]
+[![](https://media.discordapp.net/attachments/799693210384859198/803432327950368768/image0.jpg?width=503&height=670)
 Senior, River Hill High School
 # Advisor/Sponsor
 ## Mr. Gregory Clark
