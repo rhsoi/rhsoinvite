@@ -2,47 +2,35 @@
 layout: page
 title: Event Supervisors
 subtitle: Check out our wonderful ESs!
----
-<div dir="ltr">
-  
+---  
 ## Anatomy & Physiology
 ### Praneeth Kota
-Chattahoochee HS (GA)
-</div><div dir="rtl">
-  
+Chattahoochee HS (GA)  
 ## Astronomy
 ### Pratyoy Biswas
-West Windsor Plainsboro South HS (NJ)
-</div><div dir="ltr">
-  
+West Windsor Plainsboro South HS (NJ)  
 ## Chemistry Lab
-### TBD
-TBD HS (TBD)
-</div><div dir="rtl">
-  
+### Alvin Meng
+TJHSST (VA) 
+### Derek Jiang
+Stephen Austin HS (TX)
+### Jaehyun Ahn
+Orlando Science School (FL)
 ## Circuit Lab
 ### TBD
 TBD HS (TBD)
-</div><div dir="ltr">
-
 ## Codebusters
 ### Allen Chang
 West Windsor Plainsboro North HS (NJ)
-</div><div dir="rtl">
-
 ## Designer Genes
 ### Christina Kasch
 Central HS (MO)
-</div><div dir="ltr">
-
 ## Detector Building
 ### Zan Chaudhry
 Johns Hopkins University (MD)
 ### Alexander Oh
 River Hill HS (MD)
-<div dir="rtl">
-
-## Experiment Data & Analysis
+## Experiment & Data Analysis
 ### TBD
 TBD HS (TBD)
 ## Disease Detectives
@@ -81,9 +69,11 @@ TJHSST (VA)
 ## Water Quality
 ### Victoria Cheng
 River Hill HS (MD)
-## Write it CAD it
+## Write It CAD It
 ### Jason Chang
 West Windsor Plainsboro North HS (NJ)
+### Miyu Yamane
+Los Altos High School (CA)
 # Trials
 ## Fast Facts
 ### Jeffrey Li, Saketh Sundar
