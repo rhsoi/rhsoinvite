@@ -3,7 +3,7 @@ layout: page
 title: About Us
 subtitle: Tournament Directors
 ---
--># Student Directors<-
+# Student Directors
 ## Saketh Sundar
 ### Director of Logistics/Operations & Content
 ![](https://media.discordapp.net/attachments/799693210384859198/803446670372634654/saketh_1.jpg?width=320&height=320)
