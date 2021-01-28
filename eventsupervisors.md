@@ -70,16 +70,8 @@ River Hill HS (MD)
 West Windsor Plainsboro North HS (NJ)
 # Trials
 ## Fast Facts
-### Jeffrey Li
-River Hill HS (MD)
-### Saketh Sundar
+### Jeffrey Li, Saketh Sundar
 River Hill HS (MD)
 ## Game On
-### Alexander Oh
-River Hill HS (MD)
-### Benjamin Choe
-River Hill HS (MD)
-### David Balakirsky
-River Hill HS (MD)
-### Rayaan Chaudhry
+### Alexander Oh, Benjamin Choe, David Balakirsky, Rayaan Chaudhry
 River Hill HS (MD)
