@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Event Supervisors
-subtitle: Check out our wonderful ESs! If you're interested in ESing for one of the events that doesn't currently have an ES, email us!
+subtitle: Check out our 27 wonderful ESs from 15 different states! If you're interested in ESing for one of the events that doesn't currently have an ES, email us!
 ---  
 ## Anatomy & Physiology
 #### Praneeth Kota
