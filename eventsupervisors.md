@@ -16,7 +16,7 @@ TJHSST (VA)
 Stephen Austin HS (TX)
 #### Jaehyun Ahn
 Orlando Science School (FL)
-### Circuit Lab
+## Circuit Lab
 #### TBD
 TBD HS (TBD)
 ## Codebusters
