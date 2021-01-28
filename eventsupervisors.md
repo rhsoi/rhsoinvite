@@ -1,83 +1,83 @@
 ---
 layout: page
 title: Event Supervisors
-subtitle: Check out our wonderful ESs!
+subtitle: Check out our wonderful ESs!If you're interested in ESing for one of the events that doesn't currently have an ES, email us!
 ---  
 ## Anatomy & Physiology
-### Praneeth Kota
+#### Praneeth Kota
 Chattahoochee HS (GA)  
 ## Astronomy
-### Pratyoy Biswas
+#### Pratyoy Biswas
 West Windsor Plainsboro South HS (NJ)  
 ## Chemistry Lab
-### Alvin Meng
+#### Alvin Meng
 TJHSST (VA) 
-### Derek Jiang
+#### Derek Jiang
 Stephen Austin HS (TX)
-### Jaehyun Ahn
+#### Jaehyun Ahn
 Orlando Science School (FL)
-## Circuit Lab
-### TBD
+### Circuit Lab
+#### TBD
 TBD HS (TBD)
 ## Codebusters
-### Allen Chang
+#### Allen Chang
 West Windsor Plainsboro North HS (NJ)
 ## Designer Genes
-### Christina Kasch
+#### Christina Kasch
 Central HS (MO)
 ## Detector Building
-### Zan Chaudhry
+#### Zan Chaudhry
 Johns Hopkins University (MD)
-### Alexander Oh
+#### Alexander Oh
 River Hill HS (MD)
 ## Experiment & Data Analysis
-### TBD
+#### TBD
 TBD HS (TBD)
 ## Disease Detectives
-### Jeffrey Li
+#### Jeffrey Li
 River Hill HS (MD)
-### Saketh Sundar
+#### Saketh Sundar
 River Hill HS (MD)
-### Aarush Mehta
+#### Aarush Mehta
 Ward Melville HS (NY)
 ## Dynamic Planet
-### Ben Ehlert
+#### Ben Ehlert
 Menomonie HS (WI)
 ## Forensics
-### Zoe Goldblum
+#### Zoe Goldblum
 Penn State University (PA)
 ## Fossils
-### Stephen Heritage
+#### Stephen Heritage
 Munster HS (IN)
 ## Geologic Mapping
-### Lalith Roopesh
+#### Lalith Roopesh
 Carmel HS (IN)
 ## Machines
-### Hugo Yu
+#### Hugo Yu
 Blue Valley North HS (KS)
-### Jasmine Klinkao
+#### Jasmine Klinkao
 Ed W. Clark HS (NV)
 ## Ornithology
-### Krish Jayarapu
+#### Krish Jayarapu
 Carmel HS (IN)
 ## Protein Modeling
-### Elaine Qu
+#### Elaine Qu
 Troy Athens HS (MI)
 ## Sounds of Music
-### Shreyas Mayya
+#### Shreyas Mayya
 TJHSST (VA)
 ## Water Quality
-### Victoria Cheng
+#### Victoria Cheng
 River Hill HS (MD)
 ## Write It CAD It
-### Jason Chang
+#### Jason Chang
 West Windsor Plainsboro North HS (NJ)
-### Miyu Yamane
+#### Miyu Yamane
 Los Altos High School (CA)
 # Trials
 ## Fast Facts
-### Jeffrey Li, Saketh Sundar
+#### Jeffrey Li, Saketh Sundar
 River Hill HS (MD)
 ## Game On
-### Alexander Oh, Benjamin Choe, David Balakirsky, Rayaan Chaudhry
+#### Alexander Oh, Benjamin Choe, David Balakirsky, Rayaan Chaudhry
 River Hill HS (MD)
