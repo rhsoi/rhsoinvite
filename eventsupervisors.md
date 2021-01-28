@@ -22,10 +22,13 @@ West Windsor Plainsboro North HS (NJ)
 ### Christina Kasch
 Central HS (MO)
 ## Detector Building
-### Alexander Oh
-River Hill HS (MD)
 ### Zan Chaudhry
 Johns Hopkins University (MD)
+### Alexander Oh
+River Hill HS (MD)
+## Experiment Data & Analysis
+### TBD
+TBD HS (TBD)
 ## Disease Detectives
 ### Jeffrey Li
 River Hill HS (MD)
@@ -65,10 +68,18 @@ River Hill HS (MD)
 ## Write it CAD it
 ### Jason Chang
 West Windsor Plainsboro North HS (NJ)
+# Trials
 ## Fast Facts
 ### Jeffrey Li
 River Hill HS (MD)
 ### Saketh Sundar
 River Hill HS (MD)
 ## Game On
-
+### Alexander Oh
+River Hill HS (MD)
+### Benjamin Choe
+River Hill HS (MD)
+### David Balakirsky
+River Hill HS (MD)
+### Rayaan Chaudhry
+River Hill HS (MD)
