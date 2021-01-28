@@ -3,12 +3,17 @@ layout: page
 title: About Us
 subtitle: Tournament Directors
 ---
+<div dir='rtl'>
+  
 # Student Directors
 ## Saketh Sundar
 ### Logistics/Operations & Content
 ![](https://media.discordapp.net/attachments/799693210384859198/803446670372634654/saketh_1.jpg?width=320&height=320)
 
 Sophomore, River Hill High School
+
+<div dir='ltr'>
+
 ## Jeffrey Li
 ### Content & Communications
 ![](https://media.discordapp.net/attachments/799693210384859198/803452378686554132/j.webp?width=320&height=320)
