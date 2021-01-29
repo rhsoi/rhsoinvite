@@ -22,6 +22,8 @@ TBD HS (TBD)
 ## Codebusters
 #### Allen Chang
 West Windsor Plainsboro North HS (NJ)
+#### Andrew Zhang
+Syosset HS (NY)
 ## Designer Genes
 #### Christina Kasch
 Central HS (MO)
@@ -68,6 +70,8 @@ Troy Athens HS (MI)
 TJHSST (VA)
 ## Water Quality
 #### Victoria Cheng
+River Hill HS (MD)
+#### Kianna Pan
 River Hill HS (MD)
 ## Write It CAD It
 #### Jason Chang
