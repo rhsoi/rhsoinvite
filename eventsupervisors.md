@@ -17,8 +17,8 @@ Stephen Austin HS (TX)
 #### Jaehyun Ahn
 Orlando Science School (FL)
 ## Circuit Lab
-#### TBD
-TBD HS (TBD)
+#### Darsh Shah
+Seven Lakes HS (TX)
 ## Codebusters
 #### Allen Chang
 West Windsor Plainsboro North HS (NJ)
