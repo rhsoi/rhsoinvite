@@ -33,8 +33,8 @@ Johns Hopkins University (MD)
 #### Alexander Oh
 River Hill HS (MD)
 ## Experiment & Data Analysis
-#### TBD
-TBD HS (TBD)
+#### Andrew Zhao
+River Hill HS (MD)
 ## Disease Detectives
 #### Jeffrey Li
 River Hill HS (MD)
