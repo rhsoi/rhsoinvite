@@ -85,5 +85,5 @@ Los Altos High School (CA)
 #### Jeffrey Li, Saketh Sundar
 River Hill HS (MD)
 ## Game On
-#### Alexander Oh, Benjamin Choe, David Balakirsky, Rayaan Chaudhry
+#### Benjamin Choe, Rayaan Chaudhry
 River Hill HS (MD)
