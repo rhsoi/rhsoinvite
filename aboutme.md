@@ -19,7 +19,6 @@ Senior, River Hill High School
 ### Director of Outreach & Scoring
 ![](https://media.discordapp.net/attachments/799693210384859198/803434982516195338/image0.jpg?width=320&height=320)
 
-Other Directors TBD
 # Advisor/Sponsor
 ## Mr. Gregory Clark
 Teacher, River Hill High School
