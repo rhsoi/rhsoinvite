@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Event Supervisors
-subtitle: Check out our wonderful ESs from over 15 different states! If you're interested in ESing for one of the events that doesn't currently have an ES, email us!
+subtitle: To come soon! If you are interested in being an event supervisor, please fill out this survey: https://docs.google.com/forms/d/e/1FAIpQLSf4HxfCcs3313jnL8QlZYEoAkaH7Bki8hGL3vpO0A__pbK9zg/viewform?usp=sharing
 ---  
+<!---
 ## Anatomy & Physiology
 #### Praneeth Kota
 Chattahoochee HS (GA)  
@@ -87,3 +88,4 @@ River Hill HS (MD)
 ## Game On
 #### Benjamin Choe
 River Hill HS (MD)
+---!>
