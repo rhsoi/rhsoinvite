@@ -14,6 +14,7 @@ author: RHSO
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Registration: "registration"
   About Us: "aboutme"
   Tournament: "tournament"
   Event Supervisors: "eventsupervisors"
