@@ -4,8 +4,6 @@ title: Registration
 subtitle: Registration Details
 ---
 
-# Registration Details
-
 ## Scilympiad page
 The link to our Scilympiad to register for the competition can be found [here](https://scilympiad.com/md-rhsoi).
 
