@@ -7,7 +7,7 @@ subtitle: Registration Details
 # Registration Details
 
 ## Scilympiad page
-The link to our Scilympiad to register for the competition can be found here [here](https://scilympiad.com/md-rhsoi).
+The link to our Scilympiad to register for the competition can be found [here](https://scilympiad.com/md-rhsoi).
 
 ## Costs
 The cost of registration is $40 per team. 
