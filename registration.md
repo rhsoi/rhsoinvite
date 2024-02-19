@@ -8,6 +8,7 @@ subtitle: Registration Details
 The link to our Scilympiad to register for the competition can be found [here](https://scilympiad.com/md-rhsoi).
 
 ## Costs
-The cost of registration is $40 per team. 
-Payments will only be accepted via check. Please mail checks to 12101 Clarksville Pike, Clarksville, MD 21029. The address line should be "River Hill High School Science Olympiad".
+This competition will have a registration fee of $35 for one team, $60 for 2 teams, and $90 for 3 teams.
+PLEASE DO NOT SEND PAYMENTS YET. We will update you when payments should be made ASAP. 
+You can still register without paying right now.
 
